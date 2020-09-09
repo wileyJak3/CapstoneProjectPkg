@@ -1,0 +1,42 @@
+/* Css files for nav bar and the entire application */
+
+.navbar .navbar-expand .navbar-dark .bg-primary  {
+    justify-content: space-between;
+}
+
+#navBar .navbar{
+    justify-content: space-evenly;;
+}
+#navBar a {
+    color: #0069D9;
+}
+.navbar{
+    margin-bottom: 4vh;
+}
+
+img.card-img {
+    object-fit: fill;
+    height: 40vh;
+}
+.card-header{
+    color: #0069D9;
+    
+}
+
+h3 {
+    margin-top: 5vh ;
+
+} 
+.col{
+    margin-left: 4vh;
+}
+.home__cover {
+    object-fit: contain;
+    background-image: url("https://www.bluesodapromo.com/blog/wp-content/uploads/2014/01/free.jpg");
+    position: fixed;
+    text-align: center;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}

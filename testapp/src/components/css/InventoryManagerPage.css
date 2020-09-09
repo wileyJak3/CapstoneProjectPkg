@@ -1,0 +1,15 @@
+#invManCard .card-body {
+    display: flex;
+    justify-content: space-evenly;
+}
+#invManCard{
+    margin-top: 5vh; ;
+}
+/* .card-body {
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+.card{
+    margin-top: .2vh ;
+}
